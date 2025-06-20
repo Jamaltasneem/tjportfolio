@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Jamaltasneem/tjportfolio.git/static/css/main.c3fc6554.css",
-    "main.js": "/Jamaltasneem/tjportfolio.git/static/js/main.148b2be6.js",
-    "static/js/453.5d79306b.chunk.js": "/Jamaltasneem/tjportfolio.git/static/js/453.5d79306b.chunk.js",
-    "static/media/heroImage.jpg": "/Jamaltasneem/tjportfolio.git/static/media/heroImage.9553be202e2fbef67dcf.jpg",
-    "static/media/fraction.cjs": "/Jamaltasneem/tjportfolio.git/static/media/fraction.7992481f3d8339b77604.cjs",
-    "index.html": "/Jamaltasneem/tjportfolio.git/index.html",
-    "static/media/index.cjs": "/Jamaltasneem/tjportfolio.git/static/media/index.f6d03137e8c9dd0de04c.cjs",
-    "main.c3fc6554.css.map": "/Jamaltasneem/tjportfolio.git/static/css/main.c3fc6554.css.map",
-    "main.148b2be6.js.map": "/Jamaltasneem/tjportfolio.git/static/js/main.148b2be6.js.map",
-    "453.5d79306b.chunk.js.map": "/Jamaltasneem/tjportfolio.git/static/js/453.5d79306b.chunk.js.map"
+    "main.css": "/tjportfolio/static/css/main.c3fc6554.css",
+    "main.js": "/tjportfolio/static/js/main.4036ce9f.js",
+    "static/js/453.5d79306b.chunk.js": "/tjportfolio/static/js/453.5d79306b.chunk.js",
+    "static/media/heroImage.jpg": "/tjportfolio/static/media/heroImage.9553be202e2fbef67dcf.jpg",
+    "static/media/fraction.cjs": "/tjportfolio/static/media/fraction.7992481f3d8339b77604.cjs",
+    "index.html": "/tjportfolio/index.html",
+    "static/media/index.cjs": "/tjportfolio/static/media/index.f6d03137e8c9dd0de04c.cjs",
+    "main.c3fc6554.css.map": "/tjportfolio/static/css/main.c3fc6554.css.map",
+    "main.4036ce9f.js.map": "/tjportfolio/static/js/main.4036ce9f.js.map",
+    "453.5d79306b.chunk.js.map": "/tjportfolio/static/js/453.5d79306b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3fc6554.css",
-    "static/js/main.148b2be6.js"
+    "static/js/main.4036ce9f.js"
   ]
 }
